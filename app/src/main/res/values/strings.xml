@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Unreal Application</string>
+    <string name="city">Выберите город</string>
+    <string name="text_for_btn">Узнать погоду</string>
+</resources>
